@@ -23,5 +23,5 @@ def calculator( ):
             else:
                 print("Error! Division by zero is not allowed.")
    else:
-       print("Imvalid choice")
+       print("Invalid choice")
 calculator()
