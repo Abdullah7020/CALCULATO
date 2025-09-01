@@ -7,7 +7,7 @@ A simple calculator built with python,performing basic arithmetic operations.
 *Multiplication
 *Division
 ## Installation
-1. Clone the repository: `git clone https:
+1. Clone the repository: `git clone` https:
 2. Navigate to project directory: `cd calculator`
 3. Run the calculator: `python calculator.py`
 
